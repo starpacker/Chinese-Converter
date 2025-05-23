@@ -48,5 +48,3 @@ streamlit run app.py
 MIT License  
 Copyright (c) 2025 YourName
 ```
-
----

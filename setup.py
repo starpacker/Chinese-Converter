@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Chinese Converter',
+    name='LLMPinyinConverter',
     version='0.1.0',
     description='A smart pinyin-to-Chinese converter using LLMs',
     long_description=open('README.md').read(),
